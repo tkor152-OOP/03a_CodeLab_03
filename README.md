@@ -10,15 +10,19 @@ Erstellen Sie eine Klasse **Mitarbeiter** mit folgenden Attributen
 
 - Implementieren Sie die Attribute unter 1. als private und erstellen Sie geeignete
 Getter/Setter-Methoden.
-- Implementieren Sie zwei öffentliche Methoden hasLunch() & startsWork() die für alle
+- Implementieren Sie zwei öffentliche Methoden hasLunch()* & startsWork()* die für alle
 Instanzen gelten sollen.
 
-Erstellen Sie jeweils eine **spezifische, private** Methode für einen Mitarbeiter in
+Erstellen Sie jeweils eine **spezifische** Methode für einen Mitarbeiter in
 
-1. Buchhaltung (Accounting) zB. callsCustomer() etc.
+1. Buchhaltung (Accounting) zB. callsCustomer()* etc.
 2. Produktion (Manufacturing)
 3. Werbung (Advertising)
 
 und aktivieren Sie dieses Verhalten über eine geeignete Struktur (zB. switch() )und eine Parameterübergabe in einer öffentlichen Methode doYourWork( String flag ).Legen Sie in der Klasse Firma jeweils 3 verschiedene Mitarbeiter an.
+
+
+* hier können Sie  Textausgaben machen. zB. 
+"Ich bin Max Mütze und beginne meine Arbeit um 08:00."
 
 Erstellen Sie in ein entsprechendes Klassendiagramm.
