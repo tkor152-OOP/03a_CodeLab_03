@@ -19,8 +19,6 @@ Erstellen Sie jeweils eine **spezifische, private** Methode für einen Mitarbeit
 2. Produktion (Manufacturing)
 3. Werbung (Advertising)
 
-und aktivieren Sie dieses Verhalten über eine geeignete Struktur (zB. switch() )
-und eine Parameterübergabe in einer öffentlichen Methode doYourWork( String flag ) ;
-Legen Sie in der Klasse Firma jeweils 3 verschiedene Mitarbeiter an.
+und aktivieren Sie dieses Verhalten über eine geeignete Struktur (zB. switch() )und eine Parameterübergabe in einer öffentlichen Methode doYourWork( String flag ).Legen Sie in der Klasse Firma jeweils 3 verschiedene Mitarbeiter an.
 
 Erstellen Sie in ein entsprechendes Klassendiagramm.
